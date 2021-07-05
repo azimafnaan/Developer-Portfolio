@@ -37,3 +37,11 @@ section {
   font-weight: bold;
   margin-top: 10%;
 }
+.dream-big {
+  background-image: url(image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.dream-big p {
+  padding-right: 50px;
+}
